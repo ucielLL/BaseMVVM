@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nToLg1st1+JzJ8lgVVlBeYXehkth+xrFfmvIJFoqv3gf9klZtO+2/R0SPorzT6zvKn0SPz6hPNXs44gtYeY2OQ==",
+  "success": true,
+  "projectFilePath": "D:\\cursos\\xamarin\\Pruebamvvm2\\Pruebamvvm2\\Pruebamvvm2.iOS\\Pruebamvvm2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
